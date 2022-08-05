@@ -1,0 +1,3 @@
+Use the following link to see the output of this project: -
+
+http://htmlpreview.github.io/?https://github.com/dhiraj-inti/Smartwatch-showacase-using-HTML-CSS-and-JS/blob/main/index.html
